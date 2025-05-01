@@ -28,7 +28,7 @@ This script is made for:
 
 ## 🛠️ Usage
 
-### 1. Clone or Download
+### 1. Clone 
 
 ```
 https://github.com/XploitAsh/VPS-Gurd.git
