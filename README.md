@@ -50,4 +50,4 @@ sudo ./guard.sh
 # 📌 Combine this script with tor, VPNs, or proxychains if needed — but always stay within scope.
 
 ---
-# MIT — use it, modify it, share it!
+# 🚀  — use it, modify it, share it!
