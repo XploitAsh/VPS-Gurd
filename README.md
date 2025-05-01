@@ -41,13 +41,13 @@ sudo ./guard.sh
 
 # 🧠 Tips 
 ---
- #  - 🛡️ Run this script before using tools like nmap, masscan, ffuf, or custom fuzzers from your VPS.
+  **- 🛡️ Run this script before using tools like nmap, masscan, ffuf, or custom fuzzers from your VPS.**
 
- #  - 🚫 Avoid hitting ports like 25 or 3389 outbound — this is what often gets VPSes banned.
+  **- 🚫 Avoid hitting ports like 25 or 3389 outbound — this is what often gets VPSes banned.**
 
- #  - 🌐 Use rate limits wisely to avoid detection or blacklisting while scanning.
+  **- 🌐 Use rate limits wisely to avoid detection or blacklisting while scanning.**
 
- #  - 📌 Combine this script with tor, VPNs, or proxychains if needed — but always stay within scope.
+  **- 📌 Combine this script with tor, VPNs, or proxychains if needed — but always stay within scope.**
 
 ---
 #  **🚀  — use it, modify it, share it!**
