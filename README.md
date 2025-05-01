@@ -10,7 +10,7 @@ Cloud providers like **DigitalOcean**, **AWS**, and **Vultr** may **suspend or b
 
 This script is made for:
 
-- ✅ **Anyone using a cloud VPS for ethical hacking**
+- ✅ **Anyone using  cloud VPS for ethical hacking**
 
 ---
 
