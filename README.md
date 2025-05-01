@@ -30,11 +30,17 @@ This script is made for:
 
 ### 1. Clone or Download
 
-```bash
+```
 https://github.com/XploitAsh/VPS-Gurd.git
 cd VPS-Gurd
 chmod +x guard.sh
 sudo ./guard.sh
+```
+---
+
+## 🛠️ For Check 
+```
+  sudo iptables -L -v -n
 ```
 
 ---
