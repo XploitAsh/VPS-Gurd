@@ -36,7 +36,11 @@ cd VPS-Gurd
 chmod +x guard.sh
 sudo ./guard.sh
 ```
-# 🧠 Tips for Bug Bounty Hunters
+
+---
+
+# 🧠 Tips 
+---
 # 🛡️ Run this script before using tools like nmap, masscan, ffuf, or custom fuzzers from your VPS.
 
 # 🚫 Avoid hitting ports like 25 or 3389 outbound — this is what often gets VPSes banned.
@@ -45,4 +49,5 @@ sudo ./guard.sh
 
 # 📌 Combine this script with tor, VPNs, or proxychains if needed — but always stay within scope.
 
+---
 # MIT — use it, modify it, share it!
